@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class Loja {
-    //atributos 
     private String nome;
     private int quantidadeFuncionarios;
     private double salarioBaseFuncionario;
@@ -25,7 +24,7 @@ public class Loja {
         this.salarioBaseFuncionario = -1;
         this.endereco = endereco;
         this.dataFundacao = dataFundacao;
-        this.maxProdutos = maxProdutos;
+        this.estoqueProdutos = new Produto[maxProdutos];
     }
     
     public String getNome() {
