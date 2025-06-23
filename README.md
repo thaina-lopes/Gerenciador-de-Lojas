@@ -4,7 +4,7 @@
 
 ## 📌 Status do Projeto
 
-> **Em desenvolvimento**
+> **Finalizado**
 
 - ✅ Etapa 1 | Criação de classes – Ok
 - ✅ Etapa 2 | Associação entre classes – Ok
