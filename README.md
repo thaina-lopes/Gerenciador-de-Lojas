@@ -9,7 +9,7 @@
 - ✅ Etapa 1 | Criação de classes – Ok
 - ✅ Etapa 2 | Associação entre classes – Ok
 - ✅ Etapa 3 | Herança e Polimorfismo – Ok
-- ⏳ Etapa 4 | Arrays – A iniciar
+- ✅ Etapa 4 | Arrays – Ok
 
 ---
 
